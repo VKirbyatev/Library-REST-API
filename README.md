@@ -15,6 +15,8 @@ This project provides [rest API](#endpoints) for library.
 
 [Postman collection](https://github.com/VKirbyatev/Library-REST-API/blob/master/postman.collection.json)
 
+This project has swagger setup. Check `api/documentation` to see detailed documentation.
+
 | Methods | Endpoints               | Description               |
 | ------- | ----------------------- | ------------------------- |
 | GET     | api/users/             | Get list of all users       |
