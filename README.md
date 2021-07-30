@@ -13,6 +13,8 @@ This project provides [rest API](#endpoints) for library.
 
 ## Endpoints
 
+[Postman collection](https://github.com/VKirbyatev/Library-REST-API/blob/master/postman.collection.json)
+
 | Methods | Endpoints               | Description               |
 | ------- | ----------------------- | ------------------------- |
 | GET     | api/users/             | Get list of all users       |
